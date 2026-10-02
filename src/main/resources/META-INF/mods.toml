@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[65,)"
+license="All Rights Reserved"
+[[mods]]
+modId="gunsofwonders"
+version="1.0.0"
+displayName="Guns of Wonders"
+authors="Danila Podpivas"
+description="Original weapon models with posed hands and idle animations."
+[[dependencies.gunsofwonders]]
+modId="forge"
+mandatory=true
+versionRange="[65.1.0,66)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.gunsofwonders]]
+modId="minecraft"
+mandatory=true
+versionRange="[26.2,26.3)"
+ordering="NONE"
+side="BOTH"

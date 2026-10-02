@@ -1,0 +1,263 @@
+[
+  {
+    "id": "brees_glock",
+    "file": "brees-glock.bbmodel",
+    "quads": 60,
+    "camera": [
+      -4,
+      12,
+      21
+    ]
+  },
+  {
+    "id": "brick_vintovka",
+    "file": "brick-vintovka.bbmodel",
+    "quads": 88,
+    "camera": [
+      -5.5,
+      10,
+      28
+    ]
+  },
+  {
+    "id": "creeper",
+    "file": "creeper.bbmodel",
+    "quads": 44,
+    "camera": [
+      -13,
+      18,
+      36
+    ]
+  },
+  {
+    "id": "dragon_vintovka",
+    "file": "dragon'-vintovka.bbmodel",
+    "quads": 122,
+    "camera": [
+      -5.5,
+      10,
+      28
+    ]
+  },
+  {
+    "id": "dripstone_vintovka",
+    "file": "dripstone'-vintovka.bbmodel",
+    "quads": 64,
+    "camera": [
+      -5.5,
+      10,
+      28
+    ]
+  },
+  {
+    "id": "fantom_vintovka",
+    "file": "fantom-vintovka.bbmodel",
+    "quads": 48,
+    "camera": [
+      -5.5,
+      10,
+      28
+    ]
+  },
+  {
+    "id": "ghast_vintovka",
+    "file": "ghast'-vintovka.bbmodel",
+    "quads": 78,
+    "camera": [
+      -5.5,
+      10,
+      28
+    ]
+  },
+  {
+    "id": "glock_amethyst",
+    "file": "glock_amethyst.bbmodel",
+    "camera": [
+      -4,
+      12,
+      21
+    ]
+  },
+  {
+    "id": "glock_bedrock",
+    "file": "glock_bedrock.bbmodel",
+    "camera": [
+      -4,
+      12,
+      21
+    ]
+  },
+  {
+    "id": "glock_diamond",
+    "file": "glock_diamond.bbmodel",
+    "camera": [
+      -4,
+      12,
+      21
+    ]
+  },
+  {
+    "id": "glock_dirt",
+    "file": "glock_dirt.bbmodel",
+    "camera": [
+      -4,
+      12,
+      21
+    ]
+  },
+  {
+    "id": "glock_ender",
+    "file": "glock_ender.bbmodel",
+    "camera": [
+      -4,
+      12,
+      21
+    ]
+  },
+  {
+    "id": "glock_iron",
+    "file": "glock_iron.bbmodel",
+    "camera": [
+      -4,
+      12,
+      21
+    ]
+  },
+  {
+    "id": "glock_spider",
+    "file": "glock_spider.bbmodel",
+    "camera": [
+      -4,
+      12,
+      21
+    ]
+  },
+  {
+    "id": "glock_wither",
+    "file": "glock_wither.bbmodel",
+    "camera": [
+      -4,
+      12,
+      21
+    ]
+  },
+  {
+    "id": "gold_vintovka",
+    "file": "gold'-vintovka.bbmodel",
+    "quads": 78,
+    "camera": [
+      -5.5,
+      10,
+      28
+    ]
+  },
+  {
+    "id": "herobrine_vintovka",
+    "file": "herobrine-vintovka.bbmodel",
+    "quads": 82,
+    "camera": [
+      -5.5,
+      10,
+      28
+    ]
+  },
+  {
+    "id": "ming",
+    "file": "ming.bbmodel",
+    "quads": 66,
+    "camera": [
+      -5,
+      8,
+      23
+    ]
+  },
+  {
+    "id": "ming_lava",
+    "file": "ming_lava.bbmodel",
+    "camera": [
+      -5,
+      8,
+      23
+    ]
+  },
+  {
+    "id": "obsidian_vintovka",
+    "file": "obsidian-vintovka.bbmodel",
+    "quads": 98,
+    "camera": [
+      -5.5,
+      10,
+      28
+    ]
+  },
+  {
+    "id": "puli_pig",
+    "file": "puli-pig.bbmodel",
+    "quads": 124,
+    "camera": [
+      -6,
+      14,
+      28
+    ]
+  },
+  {
+    "id": "puli_razorl",
+    "file": "puli-razorl.bbmodel",
+    "quads": 118,
+    "camera": [
+      -6,
+      14,
+      28
+    ]
+  },
+  {
+    "id": "skulk_vintovka",
+    "file": "skulk'-vintovka.bbmodel",
+    "quads": 78,
+    "camera": [
+      -5.5,
+      10,
+      28
+    ]
+  },
+  {
+    "id": "skulkroket",
+    "file": "skulkroket.bbmodel",
+    "quads": 60,
+    "camera": [
+      -6,
+      12,
+      31
+    ]
+  },
+  {
+    "id": "snow_vintovka",
+    "file": "snow'-vintovka.bbmodel",
+    "quads": 64,
+    "camera": [
+      -5.5,
+      10,
+      28
+    ]
+  },
+  {
+    "id": "vither_vintovka",
+    "file": "vither-vintovka.bbmodel",
+    "quads": 82,
+    "camera": [
+      -5.5,
+      10,
+      28
+    ]
+  },
+  {
+    "id": "witch_glock",
+    "file": "witch-glock.bbmodel",
+    "quads": 66,
+    "camera": [
+      -4,
+      12,
+      21
+    ]
+  }
+]
